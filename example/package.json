@@ -11,7 +11,7 @@
     "immutability-helper": "^3.0.2",
     "react": "16.13.1",
     "react-native": "0.63.2",
-    "react-native-ble-advertiser": "file:../react-native-ble-advertiser-0.0.16.tgz",
+    "react-native-ble-advertiser": "0.0.17",
     "react-native-uuid-generator": "^6.1.1"
   },
   "devDependencies": {
